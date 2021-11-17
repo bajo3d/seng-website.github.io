@@ -11,3 +11,8 @@
   background-color: #131313;
   padding: 1rem 8rem;
 }
+
+.navbar .navbar-brand {
+  font-size: 1.4rem;
+  font-weight: 700;
+}
