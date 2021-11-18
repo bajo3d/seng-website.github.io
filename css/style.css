@@ -67,6 +67,12 @@
   padding-bottom: 1rem;
 }
 
+@media screen and (max-width: 992px) {
+  .mid .hero p {
+    width: 90%;
+  }
+}
+
 .mid .hero a {
   background-color: #00bf85;
   padding: 0.6rem 1.4rem;
