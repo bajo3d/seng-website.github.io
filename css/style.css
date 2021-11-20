@@ -50,6 +50,7 @@
   align-items: center;
   justify-content: center;
   overflow: hidden;
+  text-align: center;
 }
 
 .video-utama {
@@ -67,7 +68,7 @@
 .hero h2 {
   color: #f7f5f4;
   font-weight: 700;
-  font-size: 3rem;
+  font-size: 3.3rem;
 }
 
 .hero p {
